@@ -1,4 +1,4 @@
-/*     LOGIN FORM , CSEd, 
+/*     LOGIN FORM , CSE, 
        PAGE-1
       
        "Predefined"username, password
@@ -154,8 +154,8 @@ int main() {
                     //play_games();
                      break;
 
-            case 6:  loadPlaylist("songs.txt");
-                     playSongs();
+            case 6:  //loadPlaylist("songs.txt");
+                     //playSongs();
                      break;
             case 7:  chatbot();
                      break;  
