@@ -47,9 +47,11 @@ void student_mid_analysis(const char *filename) {
     printf("\tHighest Marks: %d\n", highest);
     printf("\tLowest Marks: %d\n", lowest);
     printf("\n");
+    printf("\n");
+
     //**** OPENING WEBSITE *******
   
-  /* printf(" Want to check your Sem result? 0-cancel/ 1-check");
+   printf(" Want to check your Sem result? 0-cancel/ 1-check\n");
    scanf("%d",&sem);
    if(sem){
     
@@ -66,5 +68,5 @@ void student_mid_analysis(const char *filename) {
 
       else
       printf(" website Opening Cancelled..");
-*/
+
 }
