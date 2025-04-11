@@ -11,7 +11,7 @@ void student_mid_analysis(const char *filename); // Function to analyze subject 
 void loadPlaylist(const char *filename);
 void playSongs();
 void open_image(const char *image_path);
-
+void Alien_invader()
 void bankAccountOperations();
 
 void chatbot();

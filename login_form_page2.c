@@ -149,7 +149,8 @@ int main() {
                      printf(" yet to make the functionality");
                      break;
 
-            case 5:  printf(" yet to make the functionality");
+            case 5: Alien_invader()
+                    printf(" yet to make the functionality");
  
                     //play_games();
                      break;
